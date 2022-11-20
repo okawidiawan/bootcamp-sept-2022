@@ -1,0 +1,5 @@
+id,username,password,name,nilai1,nilai2,nilai3,nilai4,nilai5
+1,oka@gmail.com,P4sSw0r!),Oka,oka@gmail.com,90,90,80,90,98
+2,widiawan@gmail.com,P4sSw0r!),Widiawan,widiawan@gmail.com,80,90,85
+3,ozu@gmail.com,P4sSw0r!),Ozu,ozu@gmail.com
+9,bezarius@gmail.com,P4sSw0r!),Bezarius,bezarius@gmail.com

@@ -1,0 +1,3 @@
+ID,Nama,GajiPokok,JmlAbsensi,JmlIzin,TanpaKabar,GajiTotal
+1,Oka,9000000,23,0,-1,9660000
+2,Oca,8500000,21,1,0,9160000

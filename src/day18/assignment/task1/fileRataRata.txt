@@ -1,0 +1,4 @@
+Nama,NilaiRatarata
+John,9.0
+Peter,8.0
+Steve,7.0

@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Soleh Said",
+    "address": "Jakarta",
+    "status": "Active",
+    "physics": 80,
+    "calculus": 70,
+    "biology": 85
+  },
+  {
+    "name": "Ridwan Jamil",
+    "address": "Bandung",
+    "status": "On Leave",
+    "physics": 75,
+    "calculus": 95,
+    "biology": 65
+  },
+  {
+    "name": "Ahmad Purwoko",
+    "address": "Jogja",
+    "status": "Non Active",
+    "physics": 0,
+    "calculus": 0,
+    "biology": 0
+  }
+]
